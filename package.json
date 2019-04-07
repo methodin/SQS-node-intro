@@ -1,0 +1,22 @@
+{
+  "name": "sqs-node-intro",
+  "version": "1.0.0",
+  "description": "Code that backs up the SQS node.js introduction",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/methodin/SQS-node-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/methodin/SQS-node-intro/issues"
+  },
+  "homepage": "https://github.com/methodin/SQS-node-intro#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0"
+  }
+}
